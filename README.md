@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
