@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
