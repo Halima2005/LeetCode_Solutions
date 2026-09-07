@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
 | ------- |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
