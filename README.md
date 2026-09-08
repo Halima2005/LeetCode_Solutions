@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [3870-count-commas-in-range](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
