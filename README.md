@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0835-image-overlap](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
@@ -111,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
