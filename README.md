@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
