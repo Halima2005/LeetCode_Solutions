@@ -1,14 +1,14 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
 
         for(int i = 0;i<nums.length;i++){
-            if(i > 0 && nums[i] == nums[i-1] ){
+            if(i>0 && nums[i] == nums[i-1]){
                 continue;
             }
-            int j =i+1;
+
+            int j = i+1;
             int k = nums.length-1;
 
             while(j<k){
@@ -16,16 +16,18 @@ class Solution {
 
                 if(sum>0){
                     k--;
-                } else if(sum<0){
+                }else if(sum<0){
                     j++;
                 }else{
                     res.add(Arrays.asList(nums[i],nums[j],nums[k]));
                     j++;
-
-                    while(nums[j] == nums[j-1] && j<k){
-                        j++;
-                    }
+                    while( j < k && nums[j] == nums[j-1]){
+                    j++;
                 }
+            
+            }
+
+                
             }
         }
         return res;
@@ -44,35 +46,34 @@ class Solution {
 
 
 
-
-
-
         // List<List<Integer>> res = new ArrayList<>();
         // Arrays.sort(nums);
 
-        // for(int i =0;i< nums.length;i++){
-        //     if(i>0 && nums[i] == nums[i-1]){
+        // for(int i = 0;i<nums.length;i++){
+        //     if(i > 0 && nums[i] == nums[i-1] ){
         //         continue;
         //     }
         //     int j =i+1;
-        //     int k = nums.length -1;
-        //     while(j<k){
-        //         int total = nums[i] + nums[j] + nums[k];
+        //     int k = nums.length-1;
 
-        //         if(total>0){
+        //     while(j<k){
+        //         int sum = nums[i]+nums[j]+nums[k];
+
+        //         if(sum>0){
         //             k--;
-        //         }else if(total<0){
+        //         } else if(sum<0){
         //             j++;
         //         }else{
         //             res.add(Arrays.asList(nums[i],nums[j],nums[k]));
         //             j++;
 
-        //             while( nums[j] == nums[j-1] && j<k){
+        //             while(nums[j] == nums[j-1] && j<k){
         //                 j++;
         //             }
         //         }
         //     }
         // }
         // return res;
+
     }
 }
