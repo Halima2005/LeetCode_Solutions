@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -166,6 +168,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
