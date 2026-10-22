@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2235-add-two-integers](https://github.com/Halima2005/LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
