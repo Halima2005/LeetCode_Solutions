@@ -5,11 +5,11 @@ class Solution {
      }
      int num =x;
      int rev=0;
-     while(x>0){
-        rev=rev*10+x%10;
-        x/=10;
+     while(num!=0){
+        rev=rev*10+num%10;
+        num/=10;
      }
-     return (num == rev);
+     return (x == rev);
         
     }
 }
