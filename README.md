@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0835-image-overlap](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Halima2005/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Halima2005/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Halima2005/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
