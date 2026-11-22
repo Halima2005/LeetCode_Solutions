@@ -1,17 +1,17 @@
 class Solution {
     public boolean checkString(String s) {
-        // boolean foundB = false;
+        boolean foundB = false;
 
-        // for(int i = 0;i < s.length();i++){
-        //     if(s.charAt(i) == 'b'){
-        //         foundB =  true;
-        //     }
-        //     else if(s.charAt(i) == 'a' && foundB){
-        //         return false;
-        //     }
-        // }
-        // return true;
+        for(int i = 0;i < s.length();i++){
+            if(s.charAt(i) == 'b'){
+                foundB =  true;
+            }
+            else if(s.charAt(i) == 'a' && foundB){
+                return false;
+            }
+        }
+        return true;
 
-        return !s.contains("ba");
+        // return !s.contains("ba");
     }
 }
